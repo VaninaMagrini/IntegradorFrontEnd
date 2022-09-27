@@ -1,0 +1,158 @@
+*
+{
+margin: 0px;
+padding: 0px;
+}
+
+.caja-cartas
+{
+ width: 1000px;
+ height: 600px;
+ /*background-color: aqua;*/
+ margin: auto;
+}
+
+.caja-form1
+{
+ width: 800px;
+ height: 50px;
+ /*background-color: aqua;*/
+ margin: auto;
+ display: flex;
+ flex: auto;
+}
+
+.caja-form2
+{
+ width: 800px;
+ height: 150px;
+ /*background-color: aqua;*/
+ margin: auto;
+
+}
+.caja-imagen
+{
+    width: 550px;
+    height: 250px;
+    background-color: aqua; 
+    text-align: right;
+}
+
+footer
+{
+    width: 1348px;
+    height: 80px;
+    background-color:#3D3B3B ;
+
+}
+
+.contenedor /*para acomodar los links del footer*/
+{
+    width: 1000px;
+    height: 80px; 
+   /* background-color: aqua;*/
+    margin: auto;
+    display: flex;
+
+}
+
+.linkfooter 
+{
+    width: 80px;
+    height: 80px;
+    margin: auto;
+    margin-top: 15px;
+
+}
+
+.separacion /*separación de los inputs*/
+{
+margin-top: 5px;  
+
+}
+
+.w-100 /*para hacer mas claras las imagenes del carrousel*/
+{
+    filter: brightness(40%);
+}
+
+.carousel-caption /* para acomodar el texto a la derecha del carrousel*/
+{
+margin-bottom: 10%;
+margin-left: 30%;
+width: 45%;
+display: flex;
+text-align: end !important;
+}
+
+#titulo 
+{
+ color: white;   
+ font-size: 20px;
+ font-family: Arial, Helvetica, sans-serif;
+}
+
+#texto
+{
+ color: white;   
+ font-size: 15px;
+ font-family: Arial, Helvetica, sans-serif;
+}
+
+#color-boton
+{
+background-color: lawngreen;
+border-color: lawngreen;
+}
+
+#li1
+{
+color: white;
+}
+
+#li2
+{
+color: grey;
+}
+
+#li3
+{
+color: green;
+}
+
+#letra-boton
+{
+color: white;
+border-color: white;
+}
+
+.fondogris
+{
+ margin: 0px;
+ padding: 0px;
+ background-color: #3D3B3B; 
+ text-align: left;  
+}
+
+h6
+{
+color: #635C5B;
+text-align: center;
+}
+
+h3
+{
+text-align: center;
+}
+
+#subr
+{
+ text-decoration: underline dotted;
+}
+
+div > a
+{
+text-decoration: none;
+color: white;
+
+}
